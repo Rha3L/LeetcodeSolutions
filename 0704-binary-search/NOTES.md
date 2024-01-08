@@ -1,2 +1,3 @@
 ​Time Complexity: O(log n)
-Space Complecity: O(1)
+
+Space Complexity: O(1)
