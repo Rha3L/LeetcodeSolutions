@@ -1,5 +1,5 @@
 ​Iterative method:
 
-Time Complexity​: O(n+m)
+- Time Complexity​: O(n+m)
 
-Space Complexity: O(1)
+- Space Complexity: O(1)
